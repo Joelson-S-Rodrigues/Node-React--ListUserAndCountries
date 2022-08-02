@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    outline:0;
+    box-sizing:border-box;
+  }
+  html, body, #root{
+    min-height:100%;
+  }
+
+  body{
+   
+    -webkit-font-smoothing: antialiased !important;
+
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 14%, rgba(19,19,19,1) 39%, rgba(27,27,27,1) 66%, rgba(43,43,43,1) 76%, rgba(58,58,58,1) 83%, rgba(69,69,69,1) 88%, rgba(84,84,84,1) 91%, rgba(104,104,104,1) 96%, rgba(104,104,104,1) 97%, rgba(119,119,119,1) 99%, rgba(119,119,119,1) 99%);
+    
+  }
+     /* laranja */
+  /* #ee3325 */
+
+  /* cinza #999999 */
+
+
